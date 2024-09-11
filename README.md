@@ -1,4 +1,4 @@
-1)*** Overview Analysis ***
+1) Overview Analysis
 
 Project Goal:
 
