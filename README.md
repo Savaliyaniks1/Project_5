@@ -1,4 +1,4 @@
--- link generate for streamlit
+-- Generated link for streamlit
 
 https://project5-ihfw8dsetvthhqbvoozvhu.streamlit.app/
 
