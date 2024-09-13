@@ -76,4 +76,7 @@ Identification of top satisfied customers.
 A predictive model for satisfaction scores.
 Segmentation of users into satisfaction clusters.
 A deployed and monitored model for ongoing use.
+
+link generate for streamlit
+https://project5-ihfw8dsetvthhqbvoozvhu.streamlit.app/
    
