@@ -3,5 +3,5 @@ plotly
 numpy
 matplotlib
 scikit-learn
-pip install -- upgrade pip
+
 
