@@ -4,3 +4,4 @@ numpy
 matplotlib
 sklearn
 scikit-learn
+pip install pipreqs
