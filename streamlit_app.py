@@ -20,10 +20,10 @@ st.set_page_config(page_title="Telecom !!!",page_icon=":bar_chart:",layout = "wi
 
 st.title('Customer Satisfaction Dashboard')
 
-st.header('Upload Engagement and Experience Scores CSV Files')
+st.header('Upload Engagement and Satisfaction Scores CSV Files')
 
 uploaded_eng_file = st.file_uploader("choose an engagement Scores CSV file",type = "csv")
-uploaded_exp_file = st.file_uploader("choose an experience Scores CSV file",type = "csv")
+uploaded_exp_file = st.file_uploader("choose an Satisfaction Scores CSV file",type = "csv")
 
     
 if uploaded_eng_file is not None and uploaded_exp_file is not None:
